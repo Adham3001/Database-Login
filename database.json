@@ -5,6 +5,7 @@
       "username": "adham",
       "password": "12345",
       "nomor": ["6288809763647"],
+      "is_super_user": true,
       "created_at": "2025-08-10",
       "expired_at": "2025-09-11",
       "blocked": false,
