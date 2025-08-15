@@ -19,13 +19,17 @@
     },
     {
       "name": "Adham",
-      "username": "100",
-      "password": "100",
-      "created_at": "2025-08-15T02:38:32.405Z",
-      "expired_at": null,
+      "username": "Admin",
+      "password": "Admin123",
+      "created_at": "2025-08-15",
+      "expired_at": "2026-08-16",
       "blocked": false,
       "is_super_user": false,
-      "nomor": []
+      "nomor": [],
+      "is_owner": false,
+      "owner_message": "Tidak ada pesan",
+      "blocked_message": "Tidak ada pesan",
+      "blocked_expired": "Tidak ada pesan"
     }
   ]
 }
