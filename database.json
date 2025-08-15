@@ -15,7 +15,8 @@
       "blocked": false,
       "owner_message": "Gunakan script ini dengan bijak!",
       "blocked_message": "Maaf, kamu saat ini tidak bisa menggunakan script ini, karena akun kamu sedang terbanned",
-      "blocked_expired": "2026-08-30"
+      "blocked_expired": "2026-08-30",
+      "reports": []
     },
     {
       "name": "Adham",
